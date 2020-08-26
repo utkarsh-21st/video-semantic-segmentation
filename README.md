@@ -1,6 +1,6 @@
 # semantic-segmentation
 
-This program uses DeepLabV3 (TF implementation) for segmentation.
+This program uses DeepLabV3 (TF implementation) for segmentation. [Paper](https://arxiv.org/abs/1706.05587)
 #### DeepLab - https://github.com/tensorflow/models/tree/master/research/deeplab
 It is a pre-trained model which is a TF Frozen graph.
 All code is present in main(IPythonNoteBook) file.
